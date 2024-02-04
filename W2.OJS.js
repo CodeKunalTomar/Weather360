@@ -1,4 +1,4 @@
-let currCity = "London";
+let currCity = "Alwar";
 let units = "metric";
 
 let city = document.querySelector(".weather_city");
