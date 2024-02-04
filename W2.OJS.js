@@ -76,6 +76,3 @@ function getWeather(){
 }
 
 document.body.addEventListener('load', getWeather());
-
-
-
