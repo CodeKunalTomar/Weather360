@@ -19,6 +19,34 @@ Weather360 is a simple web application that provides weather information for cit
 
 Clone the repository:
 
-```bash
-git clone https://github.com/your-username/Weather360.git
+\```bash
+git clone https://github.com/CodeKunalTomar/Weather360.git
+\```
 
+Open the project directory:
+
+```bash
+cd Weather360
+```
+
+Open the index.html file in your web browser.
+
+## Usage
+
+1. Enter the name of a city in the search bar.
+2. Press Enter or click the search button.
+3. View the current weather conditions for the specified city.
+4. Optionally, toggle between Celsius and Fahrenheit units by clicking on the respective icons.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or create a pull request.
+
+## Credits
+
+- Weather data provided by OpenWeatherMap.
+- Icons provided by Font Awesome.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
