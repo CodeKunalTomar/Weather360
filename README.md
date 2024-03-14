@@ -19,9 +19,9 @@ Weather360 is a simple web application that provides weather information for cit
 
 Clone the repository:
 
-\```bash
+```bash
 git clone https://github.com/CodeKunalTomar/Weather360.git
-\```
+```
 
 Open the project directory:
 
